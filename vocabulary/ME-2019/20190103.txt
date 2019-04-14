@@ -1,0 +1,35 @@
+tactics	['tæktɪks] 
+	//the art and science of the detailed direction and control of movement or manoeuvre of forces in battle to achieve an aim or task  战术 [军事] 
+	--eg:I won't stand by while the special interests use the same old tactics to keep things exactly the way they are.
+
+
+=======================================================================
+fluff	[flʌf]
+	//small pieces of wool,cotton,etc. that gather on clothes and other surfaces	(衣服等上的)绒毛；蓬松毛团,尘团
+
+	//soft animal fur or bird feathers, that is found especially on young animals or birds(禽兽，尤指幼者身上的)绒毛
+
+	//entertainment that is not serious and is not considered to hhave great value	没有多大意义的娱乐
+	--eg： We just want the text usually, so we need to get rid of all of the fluff.
+========================================================================
+subsequent	['sʌbsɪkwənt]
+	// You use subsequent to describe something that happened or existed after the time or event that has just been referred to.	随后的 [正式] 	
+	--eg:I'll do so next time and probably in subsequent lectures because we're going to keep using these coordinates.
+			这点我们下几节课会讲到,下几节课我们会进一步阐述。
+
+	--eg：...the increase of population in subsequent years. …随后几年中的人口增长。
+
+=========================================================================
+scenario 	[sɪˈnɑːrɪˌəʊ]
+	//If you talk about a likely or possible scenario, you are talking about the way in which a situation may develop. 设想; 可能的情况 
+	--eg：Worst-case scenario, if I don't find a job by the end of August, I move back with my parents.
+
+=========================================================================
+outright	 ['aʊtraɪt]
+	//complete and total 完全的；彻底的；绝对的
+	--eg:an outright ban 绝对禁止
+
+	//open and direct 公开的；直率的
+	--eg:there was outright opposition to the plan.该计划遭到公开直接反对
+
+	

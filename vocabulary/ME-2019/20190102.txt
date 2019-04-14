@@ -1,0 +1,67 @@
+luminary	['lʊmə'nɛri] 
+	// a person who inspires or infulence others,especially one prominent in a particular sphere 杰出人物，泰斗
+	--eg:one of the luminaries of child psychiatry   一位儿童精神病学的专家
+	eg：When Spica (Virginis) is rising just before dawn, where is the great Luminary (the Sun) hiding himself? 			
+					当东方角宿（处女座）破晓前升起，天上的大发光体（太阳）在何处匿藏？
+
+associational words : luminous
+==========================================================================
+illuminate	[ɪ'lumɪnet]
+	// To illuminate something means to shine light on it and to make it brighter and more visible. 照亮
+	--eg：No streetlights illuminated the street.    一盏照亮街道的路灯也没有。
+
+	// If you illuminate something that is unclear or difficult to understand, you make it clearer by explaining it carefully or giving information about it. 阐明
+	--eg:Instead of formulas and charts, the two instructors use games and drawings to illuminate their subject.  这两位教师用游戏和图画而不是公式和图表来阐明他们的题旨。
+
+	// illuminating ADJ 富有启发性的
+	--eg： It would be illuminating to hear the views of the club vice-chairman.  听听俱乐部副主席的观点或许会有启发。
+
+===========================================================================
+illustrate  ['ɪləstret]
+	//If you say that something illustrates a situation that you are drawing attention to, you mean that it shows that the situation exists. 表明; 显示 
+	--eg：The situation illustrates how vulnerable the president is.这个情况显示总统是多么地不堪一击。
+	//If you use an example, story, or diagram to illustrate a point, you use it to show that what you are saying is true or to make your meaning clearer.
+	--eg： Let me give another example to illustrate this difficult point.  让我举另一个例子来阐明这个难点。
+
+============================================================================
+elucidate	 [ɪ'lusɪdet] 
+	// If you elucidate something, you make it clear and easy to understand. 阐明
+	--eg：There was no need for him to elucidate. 他没有解释的必要了。
+============================================================================
+lust    	 [lʌst] 
+	// Lust is a feeling of strong sexual desire for someone.
+	--eg: His relationship with Angie was the first which combined lust with friendship.  他和安吉的关系是他第一次将色欲和友谊相结合。
+
+	// A lust for something is a very strong and eager desire to have it
+	--eg：It was Fred's lust for glitz and glamour that was driving them apart. 弗雷德对浮华和美艳的欲望使他们分手。
+
+============================================================================
+luster	<-->  lustre
+	// Lustre is gentle shining light that is reflected from a surface, for example from polished metal
+	--eg：These pearls had a fine lustre.  这些珍珠有一种细柔的光泽。
+
+	//the quality of being special in a way that is exciting 荣光；光彩；荣耀
+	--eg：the presence of thr prince added lustre to the occation.王子的出现给那场面增添了光彩
+
+============================================================================
+lusty	['lʌsti]
+	// If you say that something is lusty, you mean that it is healthy and full of strength and energy
+	--eg:Arms linked, they jumped and sang lusty national songs in front of the gathered media.	他们手挽着手，在聚集的媒体面前跳着，唱着欢快的国歌。
+
+============================================================================
+prominent	 ['prɑmɪnənt]
+	//Someone who is prominent is important and well-known. 重要的; 著名的
+
+	// Something that is prominent is very noticeable or is an important part of something else. 突出的
+	--eg:Here the window plays a prominent part in the design. 这里，窗户在设计中有着突出的作用。
+============================================================================
+formulas	[ˈfɔːmjʊlə]
+	//A formula is a plan that is invented in order to deal with a particular problem	方案 
+	--eg：a peace formulas 	一项和平方案。
+	// A formula is a group of letters, numbers, or other symbols which represents a scientific or mathematical rule. 公式 
+	--eg： He developed a mathematical formula describing the distances of the planets from the Sun. 	他提出了一个描述各行星与太阳之间距离的数学公式。
+	//In science, the formula for a substance is a list of the amounts of various substances which make up that substance, or an indication of the atoms that it is composed of. 分子式 
+	--eg: Glucose and fructose have the same chemical formula but have very different properties. 	葡萄糖和果糖具有相同的化学分子式但有很不同的特性。
+	//A formula for a particular situation, usually a good one, is a course of action or a combination of actions that is certain or likely to result in that situation. (达成通常为好的结局的) 行动方案 
+	--eg：After he was officially pronounced the world's oldest man, he offered this simple formula for a long and happy life. 
+		在他被正式宣布为世界上最老的人之后，他提供了这一长寿和幸福生活的简单方法。

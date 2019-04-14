@@ -1,0 +1,393 @@
+﻿astro-
+	astronomy  天文学
+	
+	astronaut		宇航员
+	astrology 占星学
+	asterisk	星号  *		联想词 井号 hash/pound
+	asteroid	小行星;类行星
+		后缀	：	-oid一般情况下，表示类似的,相似的
+		sphere	球状
+		spheroid	类球体
+
+	astronomical	天文学的；（天文数字般）极大的
+		numerable	数得清的；	innumerable	数不清的
+						countless	数不清的
+	astronomically high  rents	天价房租
+
+
+observe	观察；遵守；在（科技学术中）宣称
+	observatory	天文台
+	university	
+	universe	宇宙（万物皆可为宇宙）
+		
+
+cosmo-		
+	cosmos		宇宙(宏观宇宙)
+	cosmology	宇宙学
+	cosmetics	化妆品
+
+	cosmetic    装点门面的，虚伪的
+
+	cosmopolitan	国际化大都会的
+	metropolitan	大都会的
+		metropolitan与cosmpolitan的区别：杭州与上海的区别
+		Brigitta such a cosmopolitian outlook on life.  ---->视野开阔的
+	metro	城市--->后来衍生除了地铁的意思
+	metropolis	大都会
+	地铁: subway metro underground(英国官方)	tube(英国民间)
+
+fin-	限制
+	finite	有限的
+	infinite	无限的---->infinity 无限
+	confine	限制；囚禁
+	affinity	亲和
+	define    下定义
+	definite	明确的
+	indefinite		不明确的
+
+表示adj.大的单词:
+	colossal	(体积、程度的)巨大的
+	capacious	容量大的
+	capacity	容量的
+	massive	(抽象的)大而厚重，（破坏力）强烈的
+	tremendous  (体积、程度的)巨大的
+		tremor	颤抖的
+	giant	(体积、程度的)巨大的
+	gigantic	巨大的
+	titanic	(体积、力量等)巨大的
+	mammoth	(任务、变化等)巨大的
+
+表示神秘的
+	cryptic 神秘的
+	encrypt	加密		decrypt	解密
+	arcane	晦涩难懂的（难以理解的）
+	occult	神秘的(暗含超自然的)
+	mystic=mystical	神秘的
+	mysterious	神秘的
+
+表示空的
+	null	空间
+	vacant	空的
+	vacancy	空缺（植被、旅馆）
+	vacuum	真空	（物理意义上的）;吸尘器------->hoover	吸尘器 
+	void	空白
+
+	null and void	法律上的空白
+	nil	零,经常在比赛中使用 	one to nil----->1：0
+		annihilate	彻底击败的
+
+
+firmament	苍穹（仅仅用于文学上）
+dome 圆形的屋顶；穹定
+azure	蔚蓝色的
+sapphire	宝石蓝的
+ethereal	 空气般的；优雅的；（一般形容女性轻盈）---->装逼如风，常伴吾身   哈哈哈
+
+celestial body	天体
+cerebral	大脑的；充满理性的
+
+constellation	(天文意义上的)星座
+
+zodiac	黄道十二宫<我们平时所说的白羊座、巨蟹座其实都是指占星学上的星座而不是天文学上的星座>
+	eg:what's your sign of the zodiac? 你是什么星座？
+
+the Galaxy	银河系
+solar eclipse	日食
+eclipse	使相形见绌	The space programme has been eclipse by other pressing needs.  处在...的阴影之下
+ellipse	椭圆---->oval
+dwart 和...相比，显得矮小
+
+pale	A pales in comparison with B.  与B相比，A显得很仓白。
+
+表示多的
+multitude 众多
+suffuse 充满；弥漫(用于被动语态) ----abound（用于主动语态）
+adequate	足够的
+abundant	丰富的
+	The fiemament is suffused with celestial body.
+
+volv- 转
+	revolve 旋转  spin
+	rotation  rotate
+
+	involve 涉及
+	evolve	进化
+	convolve  盘旋缠绕
+
+Mercury  水星 （每一个行星的名字都来自古罗马神话）；汞
+	对应希腊神话的Hermes---->信使之神
+	联想词 quicksilver	水银的俗称；汞；也可以用来形容一个人神出鬼没，行踪不定
+mercurial 善变的
+volatile  易挥发的
+caparicious 善变的
+
+Venus  金星
+vension	野味，尤指鹿肉
+venery	狩猎
+venereal	
+venal 贪污
+
+Mars 火星
+twinkle 闪烁
+wink	单眼--->俏皮
+blink	双眼--->和蔼善良
+
+the Galaxy == the Milky Way【天后赫拉喷了很远的乳汁】	银河系
+galactose	半乳糖
+titan	【第二代天神生下的巨人】 巨人
+titanium	金属钛，Ti [钛在高端材料领域起着巨大的作用，是高级材料里面的大块头]
+android	机器人
+gigabyte	G;内存单位十亿字节
+
+Jupiter	木星(木星是太阳系最大的行星)-----丘比特（对应于希腊神话的宙斯)
+jovial	行星占仆(属于木星的比较快乐，比较乐观)
+
+Saturn	土星（罗马神萨杜恩）
+saturnine	忧郁的
+
+halo	光环；（神像上的圣辉光环----->想想观音和杨超越）
+holy	神圣的
+corona	日冕（只有在日全食才能看到）；冠状物 ----->来源于 crown 皇冠
+crowning		最高的；
+
+
+Uranus	天王星（第一代始神的名字)
+Neptune  海王星（罗马神话---尼普顿；希腊神话---波塞冬）(拿着三叉戟主管海洋)
+
+Pluto 	冥王星
+plutocracy	   财阀统治（在神话中，冥王星的人认为土地里埋藏着许多钱）
+plato	柏拉图
+platonic 	柏拉图式的；无性的；
+	platonic 	love	柏拉图式的爱
+	Utopian	乌托邦式的
+
+uranium	铀
+neptunium 镎
+plutonium	 环
+
+总结
+行星		衍生词			含义					对应星期
+sun太阳		solar			太阳的					Sunday
+moon		lunatic(luna 月亮女神露娜)	疯狂的（月圆之月精神病会变成狼人，比较疯狂）	Monday
+Mars火星（战神）	martial			好战的					Tuesday[来自日耳曼语提尔]		
+Mercury		mercurial			善变的					Wendesday[来自日耳曼语]
+Jupiter		jovial			快乐的					Thursday	[日耳曼语的诸神之神]
+Venus(爱神，非常漂亮，引起色欲)	venereal			好色的					Friday
+Saturn		saturnine			忧郁的					Saturday
+
+
+martial arts 好战的
+
+
+orbit	（行星的）轨道；作动词时，表示在轨道上运行
+track	轨道
+satellite	人造卫星----moon	天然卫星 
+lunar	 月球的	lunar calendar	阴历
+
+phase	相位（月亮在不同的时间，表现为上弦月，下弦月，满月）----->status
+	phase out	 离开轨道；逐步取缔；逐步取消
+subsidy	补贴
+
+wane	月亏
+	By the 5th century,the power of the Roman Empire was （on the wane）---->逐步变弱.
+
+wax  	月盈;月亮变圆
+ebb and flow   潮起潮落---->人生的起伏		
+wax and wane	月圆月缺
+	
+wax  蜡；耳屎
+
+cynosure	北极星-----来自希腊神话里面的狗
+	Ursa	拉丁语里面的熊
+	Ursa  Major	北极星（北极星的衍生义，向北极星一样令人瞩目的，尤指女性----对不起，我又想到杨超越，，，哈哈哈）
+	Ursa  Minor
+canine	狗的
+cynical	犬儒主义的；愤世嫉俗的
+cynic	犬儒主义者；愤世嫉俗者
+
+starry	星星的；布满星星的
+stellar	恒星的------联想词constellation	
+
+nebula 星云（星云看上去很模糊）
+nebulous	 模糊的
+nimbus	雨云
+comet	彗星
+coma   昏迷
+comma	逗号
+
+meteor	流星		(shooting star)
+meteorite		陨石
+meteorology	（古时侯，通过观察岩石层来判断气候变化） 气候学
+
+collision	碰撞
+collide	碰撞
+
+
+glorious	壮丽的
+glory	光荣
+spectacular	叹为观止的；壮观的
+radiant	绚丽的
+radiate	辐射
+
+
+craft	工艺
+spacecraft		宇宙飞船
+shuttle	梭子；两地往返
+space shuttle	航天飞机
+shuttle bus	穿梭巴士
+shuffle	洗牌;拖着脚走路
+
+
+debris['deibri]	碎片（被毁坏、被废弃的）
+scrap		碎纸，碎布
+shard		碎玻璃
+chip		碎木屑，碎石块
+
+radiation		辐射
+radiate		辐射
+radioactive	有辐射行的；放射性的
+
+fallout	辐射性尘埃；余波；不良后果------>想想蘑菇云
+
+forecast		预报
+	foreleg	四肢动物的前腿	
+prediction		语言
+
+climate	气候	（短期叫做天气weather,长期叫做气候climate）
+climatic	气候相关的
+
+atmosphere	大气层
+troposhpere	对流层（热空气上升，冷空气下降，形成对流）
+
+trope-	转变
+tropism	向性
+geotropism 	向地性
+heliotropism	向阳性
+
+vapor	蒸汽
+evaporate		蒸发
+
+
+表示-水汽
+damp	湿冷的
+dampen  打湿；抑制（想想泼冷水）
+dampener		令人扫兴的事物
+
+humid	湿热的
+humidity	 湿度
+humidifier 加湿器
+
+stuffy	 闷热的
+
+soggy	湿透的
+
+soak	浸湿的
+drench	湿透
+
+moisture	湿气
+
+
+gauge	n.测量标准，仪器 ===measure	
+	
+gadget	小玩意	联想词 widget	装饰物；小机械；小器件
+gouge	凿
+gorge	n.峡谷 v大吃  -------->the Three Gorges 三峡
+
+barometer	气压计
+
+dew	露
+frost	霜
+
+dense	密集
+condense 		(气体）凝结
+
+liquefy	液化
+congeal	液体凝结----常用于化学用语
+curdle  血液、牛奶等凝块
+clot	凝固
+
+bloodcrudling	毛骨悚然的；（害怕到连血液都凝固了）
+
+mist	雾
+haze	霾 
+smog	污染物，霾  smoke and forge
+
+droplet	小水珠
+
+refraction	折射
+retraction	收缩
+
+mirage 海市蜃楼；妄想  	联想词 illusion	
+
+dowmpour	倾盆大雨的
+sloppy 泥泞的
+muddy 泥泞的
+
+tempest	暴风雨	
+blizzard	暴风雪
+
+
+grim	严酷的
+grin	露齿而笑
+grime	污垢
+
+bleak	阴冷的，荒凉的  (desolate)
+gloomy	阴冷的；萧条的
+dank	阴冷的
+raw	生的；阴冷的
+
+relent	v 缓和
+relentless	毫不留情的===ruthless、ceaseless 永不停息的
+
+torture;torment;agony;anguish;suffering	煎熬，折磨
+ordeal  磨练；带有积极意义
+
+drizzle	细雨
+dribble 	流口水；（在体育里面）运球
+
+hail 冰雹；打招呼  hail a texi  出租车
+
+precipitation	降水
+precipitate	vt 促进
+roit	 政治上的骚乱；混乱
+
+gale	大风
+tornado	龙卷风
+hurricane	飓风
+typhoon	台风
+gasp 喘气
+gape  张口登视
+whirlwind;cyclone  旋风
+zephyr(一个神的名字，他吹出来的风令人舒服。)    和风
+breeze		和风；微风
+doldrums  赤道无风带
+	the property market(房地产) has been in the doldrums for months. 房地产行业已经好低迷了几个月。
+monsoon	季风雨季	
+
+
+
+uncanny	不可思议的
+miraculuous	奇迹般的	------------miracle	奇迹
+cunning	狡猾的
+
+
+funnel	漏斗；漏斗
+
+cumulus	积云  		accumulate	积累
+nimbus	雨云
+
+log	木材；日志
+waterlogged 
+
+
+marvellous	了不起的------------marvel	奇迹
+breath-taking	惊人的
+
+
+astound	使惊讶；
+astonish	使惊讶；
+startle	使震惊
+
+petrify		使非常害怕（害怕到石化）	petrol	石油
+mortify		使非常窘迫
+

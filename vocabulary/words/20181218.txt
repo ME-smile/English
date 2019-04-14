@@ -1,0 +1,127 @@
+arena
+	//a place with a flat open area in the middle and seats around it where people can watch sports and entertainment 圆形运动场,圆形剧场
+	--eg: a concert at Wembley Arena 在温布利体育馆举行的音乐会
+
+	//an area of activity that concerns the public,especially one where there is a lot of opposition between different groups or countries	活动场所,竞争舞台
+	--eg: the political/international arena 政治舞台/国际舞台
+
+==============================================================
+hasten
+	//to say or to do sth without delay	急忙进行;赶紧说
+	--eg:She saw his frown and hastened to explain. 她看到他皱眉头,她赶紧解释
+
+	//to make sth happen sooner or more quickly
+	--eg:The treatment she received may,in fact ,have hastened her death. 实际上,她接受的治疗可能加快了她的死亡
+
+	//to go or move somewhere quickly 赶往(syn:hurry)
+
+==============================================================
+hypothesis
+	// an idea or explaination of sth that is based on a few known facts but has not yet been proved to be true or correct
+	(有少量事实但未被证实的)假说,假设(syn:theory)
+	--eg:to formulate/confirm a hypothesis 提出/证实假设
+	--eg:a hypothsis about the function of dreams 关于梦的作用的假说
+
+	//guesses and ideas that are not based on certain knowledge(凭空的)猜想,猜测(syn:speculation)
+	--eg:It would be pointless to engage in hypothesis before we have the facts 在我们还没有掌握事实的情况下瞎猜是毫无意义的
+
+==============================================================
+impair 
+	//to damage sth or make sth worse 削弱,损害
+	--eg:a noisy could permanetly impair their hearing 噪声大的工作可能会永久性地损害他们的听力
+
+==============================================================
+corporate
+	//conneted with a corporation 公司的
+	--eg:corporate identify 公司形象
+
+	//forming a corporation 组成公司的,法人的
+	--eg:The BBC  is a corporate body 英国广播公司为法人团体
+
+	//involving or shared by all members of a group 社团的,全体的,共同的
+	--eg:corporate responsibility 共同的责任
+==============================================================
+incorporate
+	//to include sth so that it forms a part of sth	将..包括在内;包含;吸收
+	--eg:Many of your suggestions have been incorporated in the plan. 你的许多建议已纳入计划之中
+
+	//to create a legally recongized company
+	--eg:the company was incorporated in 2002 这家公司成立于2002年
+
+==============================================================
+definite
+	//sure or certain;unlikely to change 肯定的;确定的
+	--eg:Can you give me a definite answer by tomorrow? 你最晚明天能给我一个确定的答复吗?
+
+	//easily or clearly seen or understood;obvious 清楚的,明显的
+	--eg:The look on her face was definite sign that something was wrong .一看她的神色就知道出事了.
+
+	//sure that sth is true or that sth is going to happen and stating it to others 有把握,肯定
+	--eg:I am definite about this. 我对这事豪无疑问
+
+==============================================================
+indulge
+	//[~ in sth]|[~ oneself with sth] to allow yourself to have or to do sth that you like,especially sth that is considered bad for you 沉迷;沉溺于
+	--eg:I indulged myself with a long hot bath 我尽情地享受了一次长时间的热水浴
+
+	//to satisfy a particular desire,interest,etc 满足(欲望,兴趣等)
+	--eg:the inheritance enabled him to indulge his passion for art 这笔遗产使他能够尽情的投入他热爱的艺术
+
+	//[~ sb with sth] | [~ sth] to be too generous in allowing sb to have or to do whatever they like
+	--eg:she did not believe in indulge the children with presents 她认为不能惯着孩子要什么就给什么
+
+	//[~ in sth] to take part in an activity,especially one that is illegal 参加,参与(尤指违法的事)
+
+===============================================================
+inertia
+	//lack of energy;lack of desire or ability to move or change
+	--eg:I can not seem to throw off this feeling of inertia 我好像无法摆脱这种无力的感觉
+	--eg:the forces of insitutuinal in the school system 学校体制内的惰性
+
+	// a property of a matter by which it stays still or ,if moving ,continues moving in a straight line unless it is acted on by a force outside  惯性
+================================================================
+reap
+	//to obtain sth,especially sth good,as a direct result of sth that you have done//取得成果;收获
+	--eg:They are now reaping the rewards of all their hard work 现在,他们全部的辛劳都得到了回报
+
+	//to cut and collect a crop,especially wheat,from a field	收割(庄稼);收获
+
+	IDIOMS:
+	reap the harvest 
+		//to benefit or suffer as s direct result of sth you have done	享受成果,承担后果
+
+	you, reap what you 'sow 
+		//you have to deal with the bad effects or results of sth that you originally started 种瓜得瓜,种豆得豆
+
+================================================================
+warrant
+	//(~ for sth)|[~ to do sth] a legal document that is signed by a judge and gives the police authority to do sth执行令;授权令
+	--eg:They issued a warrant for her arrest	当局发出了她的逮捕令
+	--eg:an arrest warrant 逮捕证
+
+	//(~ for sth) a document that gives you the right to receive money,services	凭单,许可证
+
+	//(~ for sth|for doing sth) an acceptable reason for doing sth 做某事的正当理由,依据
+	--eg:There is no warrant for such criticism 这种批评豪无根据
+
+================================================================
+engage
+	//to succeed in attracting and keeping ab's attetion and interest 吸引住(注意力,兴趣)
+	--eg:It is a movie that engages both the mind and the eye 这是一部令人赏心悦目的电影
+
+	//[~ sb as sth]to employ sb to do a particalar job 雇用;
+	--eg:He is currently engaged  as a consultant 他现在受股雇为顾问
+
+	//[~ with sth ]to become involved with and try to understand sb/sth 与...建立密切联系;尽力理解
+	--eg:She has the ability to engage with young minds 她能够和年轻人心意相通
+
+	//to begin fighting with sb 与(某人)交战
+	--eg:to engage the enemy 与敌人交战
+
+	//[~ with sth ]when a part of a mechine engages, or when you engage it.it fits together with anther part of the machine and the machine begins to work 使衔合
+	--eg:the cogwheels are not engaging 齿轮未衔合在一起
+
+	PHRASAL VERBS
+	ebgage in sth | engage sb in sth 
+		//to take part in sth;to make sb take part in sth 使从事,参加
+	--eg:Even in prison, he conyinued to engage in criminal activities 他甚至在监狱里都还在从事犯罪活动

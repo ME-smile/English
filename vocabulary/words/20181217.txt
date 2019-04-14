@@ -1,0 +1,119 @@
+isolate
+	//to separate sb\sth physically or socially from other people or things 隔离,孤立
+	--eg:Patients  with the disease should be isolated  这种病的患者应该被隔离
+
+	// to separate a part of a situation,problem,idea,etc so that  you can see what it is and deal with it separately
+	--eg:it is possible to isolate a number of factors  that contributed to her downfall. 可以找出一些她垮台的原因.
+
+	//to separate a single subtance,cell,etc from others so that you can study it 使离析;使分离
+	--eg:Researchers are still trying to isolate the gene that causes this abnormality. 研究人员正在试图分离导致这种畸形的基因. 
+==========================================================================
+molecular
+	//of relating to,or consisting of molecules (与)分子有关的;分子构成的
+	--eg:ozone is produced by dissociation of molecular oxygen.  臭氧由氧分子离解而成.
+
+atomic
+
+	//cinnected of with atoms or an atom 原子的;与原子有关的
+	--eg:atomic structure 原子结构
+
+===========================================================================
+prevail
+	//to exist or to be very commmon at a particular time or  in a particular place	普遍存在,盛行,流行
+	--eg:These brliefs will prevail among certain social groups. 这些信念在某些社会群体中仍很盛行
+
+	//to be accepted,especially after a struggle or an argument 被接受;战胜;压倒
+	--eg:Fortunately,common sense prevailed. 幸好理智占据了上风
+
+
+===========================================================================
+botany
+	//the  scientific study of plants and their struture 植物学
+
+zoology	
+	//the  scientific study of animals and their behavior 动物学
+
+===========================================================================
+draft
+	//a rough written version of sth that is not yet in its final form
+	--eg:I have made a rough draft of the letter. 我已经写好了这封信的草稿
+	--eg:the final draft 定稿
+
+	// a wriiten order to a bank to pay money to sb. 汇票
+	--eg:Payment must be made by bank draft drawn on a UK bank 付款必须用英国银行承兑的汇票
+
+	//conscription
+
+============================================================================
+conscription  
+	//the practice of ordering people by law to serve inteh armed forces 征兵
+
+============================================================================
+draught
+	//a flow of cool air in a room or other confined space //穿堂风,通风气流;通风
+	--eg: a cold draught of air blew in from the oped window 一股冷风从敞开的窗户吹了进来
+	--eg:I was sitting in a draught 我坐在风口上
+
+	//one continuous action of swallowing liquid;the amount swallowed  (一饮)的量  
+	--eg:He took a deep draugth  of his beer .他喝了一大口啤酒
+
+	//medicine in a liquid form 药水;药剂
+	--eg: a sleeping draught  一剂安眠药水
+
+	//one of the round pieces used in a game of draughts 国际跳棋;旗子
+=============================================================================
+plot
+	//the series of event which form the story of a novel,play,film/movie 故事情节;布局
+	--eg:the book is organized in terms of plot  这本书的故事布局十分演进
+
+	// a secret plan made by a group of people to do sth wrong or illegal	阴谋;密谋
+	
+	//a small piece of land thst is used or intened for a special purpose (专用的)小块土地
+	--eg: a vegetable plost 一块菜谱
+
+	IDIOMS  
+	1. lose the plot 
+		//to lose your ablity to understand or deal with what is hanppening 迷惘,不知所错
+
+	2.the plot thickens
+		//used to say that a situation is becoming more complicated and difficult to understand 情况变得复杂起来
+
+==================================================================================
+squeeze
+	//press with fingers 用手指挤压
+	--eg:to squeeze a tube of toothpaste 挤牙膏
+	--eg:to squeeze the trigger of a gun 扣动抢的扳机
+
+
+	//to get liqiud out if sth by pressing or twisting it hard 拧出;挤出;榨出
+	--eg:He took off his wet clothes and squeezed the water out. 他脱下衣服,拧干了水
+
+	//into or through small space 进入/通过狭小的空间
+	--eg:We managed to squeeze six people into the car. 我们在那辆车上挤进了6个人
+	--eg:if you move forward a little,I can squeeze past.你朝前挪一挪,我就可以及过去了.
+
+	//threaten,to get sth by putting pressure on sb,threaning them 向..勒索;逼迫...给
+	--eg:He is squeezing me for $500 .他逼我拿出500美元
+
+	//to strictly limit or reduce the amount of money that ab/sth has or can use 严格限制,削减
+	--eg:High interest rates have squeezed th industry hard. 高利率使这个行业举步唯艰
+
+	IDIOMS
+	1.squeeze sb dry 
+		//to get as much money,information ,etc,out of sb as you can 取某人所拥有的一切;榨干某人的钱财;逼某人讲出所知道的一切
+
+	2.squeeze sb /sth in
+		//to give time to sb/sth.although you are very busy 挤出时间见某人(或做某事)
+		--eg:If you come this afternoon the doctor wiil try to squeeze you in. 你要是今天下午来,大夫可以及时间给你看看.
+
+	3.squeeze sb /sth out of (sth)
+		//to preventsb/sth from continuing to do sth or to be in business  挤跨;把...挤出
+		--eg;SUpermarket are squeezing out small shops  超市正在挤跨小商店
+
+	4.squeeze sth out of/from sb
+		//threaten,to get sth by putting pressure on sb,threaning them 向..勒索;逼迫...给
+		--eg:to squeeze a confession from a suspect 逼迫嫌疑犯招供
+
+		//squeeze up against sb/sth
+		--eg:There will be enough room if we all squeeze up a little 大家稍微及以及,地方就够了
+		--eg:I sat squeezed up against the wall. 我被挤得紧贴着墙坐着

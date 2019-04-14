@@ -1,0 +1,181 @@
+ditch  
+	//a long channel dug at the side of a field or road,to hold or take away water	沟渠
+	--eg:a ditch diverted water from the stream into the fields 一条沟把溪水引向田间
+
+============================================================================
+divert 
+	//to make sb/sth change direction 使转向
+	--eg:Northbound traffic will have to be diverted onto minor roads 北行车辆将不得不绕次要道路行驶
+	//to use money.materials,etc. for a different purpose from their original purpose 改变用途
+	//to take sb's thoughts or attention away from  sth 转移注意力;使分心
+	--eg:the war diverted people's attention away from the economic situation  战争把民众的注意力从经济状况上移开
+
+	//to entertain people 娱乐,使消遣
+	--eg:Children are easily diverted.孩子们很容易被逗乐.
+
+=============================================================================
+irrigate 
+	//to supply water to an area of land through pipes or channels so that the crops will grow
+	--eg:irrigated land 经过灌溉的土地
+
+	--//to wash out a wound or parrt of the body with a flow of water or liquid 冲洗[伤口或身体部位]
+
+=============================================================================
+trait 
+	// a particular quality  in you personality  特征;特点
+	--eg:personality traits 个性特点
+
+=============================================================================
+rusty
+	//covered with rust 生锈的
+	--eg:rusty mental 生锈的金属
+
+	//not as good as it used to be,because you have not been practising 荒废;退步
+	--eg:I haven't played the piano for ages--I may be a little rusty. 我很久没有弹钢琴了,可能会有些生疏
+=============================================================================
+steep
+	// rising or failing quickly,not gruadually  陡峭的
+	--eg: a steep slope 陡坡
+
+	//sudden and very big 突然的;急剧的;大起大落的
+	--eg: a steep rise in unemployment 失业率的激增
+
+	//too much ;unreasonable 过分的;不合理的
+	--eg:$2 for a cup of coffee seems a little steep to me. 一杯咖啡两英镑在我看来有点贵得离谱.
+==============================================================================
+rocky  
+	//made of rock;full of rocks 岩石的;多岩石的
+	--eg:a rocky coastline 岩石磷磷的海岸线
+
+	// difficult and not certain to coiniue or to be successful 困难的;难以维持的;
+	--eg:a rocky marriage  不稳定的婚姻
+
+=============================================================================
+remnant 
+	// a part of sth that is left after the other parts have been used,removed,destoryed,etc 残余部分
+	--eg: the woods are remnats of a huge  forest which once covered the whole area 这片树林只是剩下的一部分,原来这是一片大树林
+
+	// a small piece of cloth that is left when the rest have been used or sold 边角料;(织物的)零布
+
+==============================================================================
+rear  
+	// the back of sth 
+	--there are toliets at both front and rear of the plane 飞机前后舱都有洗手间
+
+==============================================================================
+inselberg  
+	//  a isolated hill or mountain rising abrutply from a plain 孤山;残山
+
+=============================================================================
+scrap
+	// a small piece of sth,especially paper,cloth,etc 碎片,小块
+	--eg:She scribbed his phone number on a scrap of paper 她把他的电话匆匆写在一张小纸片上
+
+	// a small amount of sth 丝毫,一点点
+	--eg: it won't make a scrap of difference. 这不会有丝毫差别
+
+	// food left after a meal 残更剩饭
+	--eg:Give the scraps to the dog 把剩菜喂狗吧.
+
+
+	//things are not wanted or cnanot be used for their original purpose,but which have some value for hte material they are made of 废料;废品
+
+	--eg:we sold the car for scarp 我们把车当废品卖了
+	--eg:scarp mental 废金属
+
+=============================================================================
+endure  
+	//to experience and deal with sth that is painful or unpleasant,especially without complain 忍受(syn:bear)
+	--eg:the pain was almost too great to endure. 痛苦地几乎难以忍受
+	--eg:He can't endure to be defeat. 他无法忍受失败
+
+	//to continue to exist for a long time 持续;持久(syn:last)
+	--eg:a success that will endure 将会持续地成功
+
+=============================================================================
+harsh
+	//cruel,severe and unkind 残酷的;严酷的
+	--eg:he regretted his harsh words. 他对自己刻薄的言辞感到后悔
+
+	//very difficult and unpleasant to live in 恶劣的,艰苦的
+	--eg: a harsh climate 恶劣的气候
+
+	// too strong and bright ;ugly or unpleasant to look at
+	--eg: she was caught in  the harsh glare of the headlights 她受到车前灯的强光照射
+	--eg:harsh colors 扎眼的色彩
+
+	// unpleasant to listen to 刺耳的,难听的
+	--eg: a harsh voice 刺耳的嗓音
+
+	// too strong and tough and likely to damage sth 粗糙的;刺激性强的
+	--eg: harsh etergents 刺激性强的清洁剂
+=============================================================================
+wither
+	//if a plant withers or sth withers it,it dries up and dies 枯萎,凋谢
+	--eg:the grass had withered in the warm sun 这些草在温暖的阳光下枯死了
+
+	//to become less or weaker,especially before  disapearing completely 萎缩;(尤指渐渐)破灭,消失
+	--eg:all our hope just withered away.  我们所有的希望渐渐破灭了.
+
+=============================================================================
+metabolism
+	//the chemical processes in living things that change food,etc.into energy and materials for growth 新陈代谢
+	--eg:the body's metabolism is slowed down by extreme cold. 严寒可以使身体新陈代谢的速度下降
+
+=============================================================================
+cease
+	//to stop happening or existing;to stop sth from happening or existing 停止,终止
+	--eg:The company creased trading in June 这家公司已于六月停业
+
+=============================================================================
+tissue
+	//a collection of cells that form different parts of humans,animals and plants 组织
+	--eg:muscle tissue 肌肉组织
+
+	//very thin paper used for wrapping and packing things that break easily 薄纸
+
+	IDIOMS 习语: a tissue of lies 一派谎言
+
+=============================================================================
+evaporate 
+	//if a liquid evaporates sth or if sth evaporates it,it changes into gas,especialy steam 使蒸发,挥发
+	--eg:Heat until all the water has evaporated  加热直到水分全部蒸发
+
+	//to disappear,especially by gradually becoming less and less (逐渐)消失,消散
+	--eg:Her confidence had now completely evaporated.  她的信心已消失殆尽
+
+============================================================================ 
+avacado 
+	// a fruit 牛油果
+============================================================================
+robust
+	//strong and healthy 强健的,强壮的(syn:vigorous)
+	--eg:He is alomst 90,but still very robust.  他将近90岁了,但身体依然健壮
+
+	//strong；able to  survive being used a lot and not likely to break 结实的,耐用的,坚固的(syn:sturdy)
+	--eg:a robust piece of equipment 经久耐用的设备
+
+	//strong and full of determintation; showing  that you are sure about what you are doing or saying 坚定的;信心十足的
+	--eg:It was typically robust performance by the Foreign Secetary. 这是外交大沉典型的,有信心的表现. 
+
+	//strong and not likely to fail or become weak 
+	--eg:robust econnmic growth 强劲的经济增长
+
+============================================================================
+sturdy
+	//strong and not easily damaged 结实的,坚固的
+	--eg:a sturdy pair od boots 一双结实的鞋子
+
+	//physically strong and health 强壮的,健壮的
+	--eg:a sturdy breed of cattle 一种身体强壮的牛
+
+	//not easily influenced or changed by other people 坚定的,坚决的
+	--eg: the village has always maintained a sturdy independence 这个村子顽强地始终保持着独立
+============================================================================
+vigorous
+	//very active ,determined or full of energy 充满活力的,果断的
+	--eg:Take vigorous exercise for several hours a week 每周做几小时剧烈运动
+
+	//strong and health  强壮的,健壮的
+	--eg: a vigorous young man 身强力壮的人
+============================================================================

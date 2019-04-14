@@ -1,0 +1,38 @@
+﻿在开始讲解简单句之前，我们来了解以下动词的分类：
+
+
+
+动词包括：
+	实义动词	eg：eat drink sleep look ...
+			及物动词 eg:eat  drink...
+			不及物动词 eg: sleep smile ...
+	系动词 eg: am is are ...
+
+
+	助动词 eg: do will does ...
+
+
+	情态动词  eg：can  may should...
+
+
+☛在英语中，一个完整的句子必须具备★★主谓结构★★。
+♢♢♢根据谓语动词的不同，我们把句子分为不同的种类
+		Ⅰ主谓结构------谓语动词是不及物动词，一主一谓即可表达完整意思
+			eg:she smiles.
+		Ⅱ主谓宾结构------谓语动词是及物动词，主语是动作的发生者，宾语是动作的承受者，<因此宾语也称作受词>
+			eg： she hates her mother.	
+		Ⅲ主系表结构------谓语动词是系动词
+			⚜系动词的分类：
+				1.be动词 am is are 
+				2.感官动词 look taste sound feel smell <seem>
+				3.表示变化的动词 get become turn
+				4.表示保持的动词 stay remain	keep
+			eg：Her hair turns gray
+
+		Ⅳ主谓宾宾补结构
+			☪补语<补语的作用对象是主语和宾语，对主语起修饰或限定的作用。最常见的是宾语补足语。>
+			eg： I find the book easy.
+
+		Ⅴ主谓双宾结构 ----谓语是可接双宾语的及物动词
+			☯主语+谓语+间接宾语+直接宾语
+			eg： He gave the book to his sister.
