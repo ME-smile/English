@@ -19,6 +19,7 @@ salamader 蝾螈
 
 
 toad 蟾蜍；
+tadpole 蝌蚪
 hibernate 冬眠
 
 dorm- 住宿
